@@ -29,7 +29,8 @@
                         "index": "1"
                     },
                     "card": {
-                        "name": "Right_chair"
+                        "name": "Right_chair",
+                        "retainMods": "true"
                     },
                     "replace": "false"
                 }

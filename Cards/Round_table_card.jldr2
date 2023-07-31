@@ -12,7 +12,7 @@
     "LifeCost": "2"
   },
   "tribes": [ "Canine" ],
-  "abilities": [ "FullSet" ],
+  "abilities": [ "empathymp3.inscryption.Appliances_And_Furniture.FullSet" ],
   "appearanceBehaviour": [ "GoldEmission" ],
   "texture": "Round_table.png"
 }
