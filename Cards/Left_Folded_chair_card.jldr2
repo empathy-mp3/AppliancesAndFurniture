@@ -1,0 +1,20 @@
+{
+  "name": "Left_Folded_chair",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Left Folded chair",
+  "description": "You shouldn't be seeing this message...",
+  "metaCategories": [ "TerrainBackground" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "LifeCost": "3"
+  },
+  "tribes": [ "Insect" ],
+  "abilities": [ "DeathShield" ],
+  "traits": [ "Terrain" ],
+  "appearanceBehaviour": [ "TerrainBackground" ],
+  "evolveIntoName": "Left_folding_chair",
+  "texture": "Left_Folded_chair.png"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Microwave",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Microwave",
+  "description": "A fiery device... it holds great power.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "extensionProperties": {
+    "BellsCost": "3"
+  },
+  "tribes": [ "Canine" ],
+  "abilities": [ "Transformer" ],
+  "evolveIntoName": "Lit_microwave",
+  "evolveTurns": 1,
+  "emissionTexture": "Microwave_emission.png",
+  "texture": "Microwave.png"
+}

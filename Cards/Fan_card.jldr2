@@ -1,0 +1,17 @@
+{
+  "name": "Fan",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Fan",
+  "description": "Fear its spinning blades...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "BellsCost": "4"
+  },
+  "tribes": [ "Insect" ],
+  "abilities": [ "SplitStrike" ],
+  "texture": "Fan.png"
+}

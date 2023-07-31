@@ -1,0 +1,19 @@
+{
+    "name": "throne_of_gods",
+    "modPrefix": "AppliancesAndFurniture",
+    "displayedName": "Throne of Gods",
+    "description": "An enormous goliath. ",
+    "metaCategories": [ "Rare" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 1,
+    "extensionProperties": {
+        "LifeCost": "4"
+      },
+    "tribes": [ "Insect" ],
+    "abilities": [ "PreventAttack" ],
+    "appearanceBehaviour": [ "GoldEmission" ],
+    "traits": [ "Terrain" ],
+    "texture": "throne_of_gods.png"
+  }

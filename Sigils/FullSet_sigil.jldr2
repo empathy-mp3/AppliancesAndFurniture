@@ -1,0 +1,39 @@
+{
+    "name": "Full Set",
+    "GUID": "FullSet",
+    "description": "When a card bearing this sigil is played, a Chair is created on each empty adjacent space. Chairs have 1 Power and 1 Health, and will strike the space opposing a card bearing this sigil.",
+    "texture": "Full_Set.png",
+    "pixelTexture": "Full_Set_pixel.png",
+    "powerLevel": 6,
+    "priority": 0,
+    "opponentUsable": false,
+    "canStack": false,
+    "abilityBehaviour": [
+        {
+            "trigger": {
+                "triggerType": "OnResolveOnBoard"
+            },
+            "placeCards": [
+                {
+                    "slot": {
+                        "index": "-1"
+                    },
+                    "card": {
+                        "name": "Left_chair",
+                        "retainMods": "true"
+                    },
+                    "replace": "false"
+                },
+                {
+                    "slot": {
+                        "index": "1"
+                    },
+                    "card": {
+                        "name": "Right_chair"
+                    },
+                    "replace": "false"
+                }
+            ]
+        }
+    ]
+}

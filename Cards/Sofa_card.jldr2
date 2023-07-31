@@ -1,0 +1,19 @@
+{
+  "name": "Sofa",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Sofa",
+  "description": "Not as comfortable as it seems...",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "LifeCost": "1"
+  },
+  "tribes": [ "Insect" ],
+  "abilities": [ "BuffEnemy", "Sniper" ],
+  "appearanceBehaviour": [ "GoldEmission" ],
+  "traits": [ "Terrain" ],
+  "texture": "Sofa.png"
+}

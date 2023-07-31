@@ -1,0 +1,19 @@
+{
+  "name": "Refrigerator",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Refrigerator",
+  "description": "A protective device. What could be inside?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "BellsCost": "2"
+  },
+  "tribes": [ "Reptile" ],
+  "abilities": [ "WhackAMole", "Reach", "IceCube" ],
+  "iceCubeName": "Mini_fridge",
+  "emissionTexture": "Refrigerator_emission.png",
+  "texture": "Refrigerator.png"
+}

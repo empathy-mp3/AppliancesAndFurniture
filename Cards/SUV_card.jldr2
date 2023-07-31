@@ -1,0 +1,18 @@
+{
+  "name": "SUV",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "SUV",
+  "description": "A Vehicle with respectable horsepower.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 3,
+  "extensionProperties": {
+    "BellsCost": "2"
+  },
+  "tribes": [ "Hooved" ],
+  "abilities": [ "Strafe" ],
+  "emissionTexture": "SUV_emission.png",
+  "texture": "SUV.png"
+}

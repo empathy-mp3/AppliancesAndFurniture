@@ -1,0 +1,20 @@
+{
+  "name": "Smart_fridge",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Smart fridge",
+  "description": "A truly powerful protective device. Its power cannot be overstated.",
+  "metaCategories": [ "Rare", "DefaultEmission" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "BellsCost": "4"
+  },
+  "tribes": [ "Reptile" ],
+  "abilities": [ "WhackAMole", "TailOnHit", "IceCube" ],
+  "iceCubeName": "Refrigerator",
+  "tailName": "Mini_fridge",
+  "emissionTexture": "Smart_fridge_emission.png",
+  "texture": "Smart_fridge.png"
+}

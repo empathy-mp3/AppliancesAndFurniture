@@ -1,0 +1,18 @@
+{
+  "name": "Shaded_Lamp",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Shaded Lamp",
+  "description": "A cheap, yet feeble lamp.",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "BellsCost": "1"
+  },
+  "tribes": [ "Bird" ],
+  "abilities": [ "Flying" ],
+  "emissionTexture": "Shaded_Lamp_emission.png",
+  "texture": "Shaded_Lamp.png"
+}

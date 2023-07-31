@@ -1,0 +1,18 @@
+{
+  "name": "Oven",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Oven",
+  "description": "You would fear the fires of hell...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "BellsCost": "4"
+  },
+  "tribes": [ "Canine" ],
+  "abilities": [ "Sniper" ],
+  "emissionTexture": "Oven_emission.png",
+  "texture": "Oven.png"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Zigzag_bookshelf",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Zigzag bookshelf",
+  "description": "The ultimate defensive tool.",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 2,
+  "extensionProperties": {
+    "LifeCost": "3"
+  },
+  "tribes": [ "Reptile" ],
+  "abilities": [ "Sentry" ],
+  "appearanceBehaviour": [ "GoldEmission" ],
+  "traits": [ "Terrain" ],
+  "texture": "Zigzag_bookshelf.png"
+}

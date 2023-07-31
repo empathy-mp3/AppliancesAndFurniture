@@ -1,0 +1,21 @@
+{
+  "name": "Left_folding_chair",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Left folding chair",
+  "description": "It's more sturdy than it looks...",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "LifeCost": "3"
+  },
+  "tribes": [ "Insect" ],
+  "abilities": [ "Transformer", "nevernamed.inscryption.sigils_Crooked Strike Right" ],
+  "traits": [ "Terrain" ],
+  "appearanceBehaviour": [ "TerrainBackground" ],
+  "evolveIntoName": "Left_Folded_chair",
+  "evolveTurns": 1,
+  "texture": "Left_folding_chair.png"
+}

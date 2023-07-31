@@ -1,0 +1,19 @@
+{
+  "name": "Right_folded_chair",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Right folded chair",
+  "description": "You shouldn't be seeing this message...",
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "extensionProperties": {
+    "LifeCost": "3"
+  },
+  "tribes": [ "Insect" ],
+  "abilities": [ "DeathShield", "Transformer" ],
+  "traits": [ "Terrain" ],
+  "appearanceBehaviour": [ "TerrainBackground" ],
+  "evolveIntoName": "Right_folding_chair",
+  "texture": "Right_folded_chair.png"
+}

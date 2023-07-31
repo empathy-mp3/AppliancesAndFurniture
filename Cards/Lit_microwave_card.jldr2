@@ -1,0 +1,20 @@
+{
+  "name": "Lit_microwave",
+  "modPrefix": "AppliancesAndFurniture",
+  "displayedName": "Lit microwave",
+  "description": "You shouldn't be seeing this message.",
+  "metaCategories": [ "DefaultEmission" ],
+  "cardComplexity": "Simple",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "extensionProperties": {
+    "BellsCost": "3"
+  },
+  "tribes": [ "Canine" ],
+  "abilities": [ "DoubleStrike", "Transformer" ],
+  "evolveIntoName": "Microwave",
+  "evolveTurns": 1,
+  "emissionTexture": "Lit_microwave_emission.png",
+  "texture": "Lit_microwave.png"
+}
