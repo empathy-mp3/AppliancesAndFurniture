@@ -3,7 +3,7 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Semi Truck",
   "description": "A truly gargantuan vehicle...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 4,
@@ -12,7 +12,8 @@
     "BellsCost": "4"
   },
   "tribes": [ "Hooved" ],
-  "abilities": [ "StrafeSwap", "creator.max_Lose Four Batteries" ],
+  "abilities": [ "StrafeSwap" ],
+  "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Semi_Truck_emission.png",
   "texture": "Semi_Truck.png"
 }

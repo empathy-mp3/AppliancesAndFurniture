@@ -3,7 +3,7 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Minivan",
   "description": "A powerful, yet brittle vehicle.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -13,6 +13,7 @@
   },
   "tribes": [ "Hooved" ],
   "abilities": [ "Strafe" ],
+  "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Minivan_emission.png",
   "texture": "Minivan.png"
 }

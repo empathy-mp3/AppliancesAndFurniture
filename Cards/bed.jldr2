@@ -1,0 +1,19 @@
+{
+    "name": "bed",
+    "modPrefix": "AppliancesAndFurniture",
+    "displayedName": "Bed",
+    "description": "Sweet dreams...",
+    "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "extensionProperties": {
+      "LifeCost": "3"
+    },
+    "tribes": [ "Insect" ],
+    "abilities": [ "ExplodeOnDeath" ],
+    "traits": [ "Terrain" ],
+    "appearanceBehaviour": [ "TerrainBackground" ],
+    "texture": "bed.png"
+  }

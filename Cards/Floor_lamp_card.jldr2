@@ -3,7 +3,7 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Floor lamp",
   "description": "Its high reach is not to be underestimated...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -13,6 +13,7 @@
   },
   "tribes": [ "Bird" ],
   "abilities": [ "Flying", "DeathShield" ],
+  "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Floor_lamp_emission.png",
   "texture": "Floor_lamp.png"
 }

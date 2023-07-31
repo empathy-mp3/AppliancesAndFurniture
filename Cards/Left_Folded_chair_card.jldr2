@@ -3,7 +3,6 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Left Folded chair",
   "description": "You shouldn't be seeing this message...",
-  "metaCategories": [ "TerrainBackground" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,

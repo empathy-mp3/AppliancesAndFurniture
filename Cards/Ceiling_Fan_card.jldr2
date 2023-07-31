@@ -3,7 +3,7 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Ceiling Fan",
   "description": "Its height surpasses all...",
-  "metaCategories": [ "Rare", "DefaultEmission" ],
+  "metaCategories": [ "Rare" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -13,7 +13,7 @@
   },
   "tribes": [ "Insect", "Bird" ],
   "abilities": [ "Flying", "TriStrike" ],
-  "appearanceBehaviour": [ "RareCardBackground" ],
+  "appearanceBehaviour": [ "RareCardBackground", "DefaultEmission" ],
   "emissionTexture": "Ceiling_Fan_emission.png",
   "texture": "Ceiling_Fan.png"
 }

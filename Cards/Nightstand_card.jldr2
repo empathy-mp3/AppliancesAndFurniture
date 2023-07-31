@@ -13,6 +13,7 @@
   },
   "tribes": [ "Reptile" ],
   "abilities": [ "LatchDeathShield" ],
+  "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
   "texture": "Nightstand.png"
 }

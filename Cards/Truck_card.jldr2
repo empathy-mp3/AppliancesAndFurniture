@@ -3,7 +3,7 @@
   "modPrefix": "AppliancesAndFurniture",
   "displayedName": "Truck",
   "description": "You've been hit by, you've been struck by...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer", "DefaultEmission" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 3,
@@ -13,6 +13,7 @@
   },
   "tribes": [ "Hooved" ],
   "abilities": [ "StrafePush" ],
+  "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Truck_emission.png",
   "texture": "Truck.png"
 }
