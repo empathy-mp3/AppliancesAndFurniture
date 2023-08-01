@@ -16,7 +16,7 @@
             "placeCards": [
                 {
                     "slot": {
-                        "index": "-1"
+                        "index": "([BaseCard.Slot.Index] - 1)"
                     },
                     "card": {
                         "name": "Left_chair",
@@ -26,7 +26,7 @@
                 },
                 {
                     "slot": {
-                        "index": "1"
+                        "index": "([BaseCard.Slot.Index] + 1)"
                     },
                     "card": {
                         "name": "Right_chair",
