@@ -1,0 +1,7 @@
+{
+	"Title": "Appliances and Furniture",
+	"Description": "Has many Appliances that cost Bells, and bloodless Furniture that cost Health.",
+	"ModPrefix": "AppliancesAndFurniture",
+	"PackArt": "appliances_pack.png",
+    "ValidFor": ["LeshyPack"]
+}

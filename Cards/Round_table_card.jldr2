@@ -9,7 +9,7 @@
   "baseAttack": 1,
   "baseHealth": 3,
   "extensionProperties": {
-    "LifeCost": "2"
+    "LifeCost": "4"
   },
   "tribes": [ "Canine" ],
   "abilities": [ "empathymp3.inscryption.AppliancesAndFurniture.Full Set" ],
