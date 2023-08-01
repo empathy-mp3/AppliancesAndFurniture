@@ -15,7 +15,7 @@
   "abilities": [ "Transformer", "nevernamed.inscryption.sigils_Crooked Strike Left" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "evolveIntoName": "Right_Folded_chair",
+  "evolveIntoName": "AppliancesAndFurniture_Right_Folded_chair",
   "evolveTurns": 1,
   "texture": "Right_folding_chair.png"
 }

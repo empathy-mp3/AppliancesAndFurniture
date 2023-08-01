@@ -13,7 +13,7 @@
   },
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole", "Reach", "IceCube" ],
-  "iceCubeName": "Mini_fridge",
+  "iceCubeName": "AppliancesAndFurniture_Mini_fridge",
   "emissionTexture": "Refrigerator_emission.png",
   "texture": "Refrigerator.png"
 }

@@ -11,9 +11,9 @@
     "LifeCost": "3"
   },
   "tribes": [ "Insect" ],
-  "abilities": [ "DeathShield" ],
+  "abilities": [ "Transformer", "DeathShield" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "evolveIntoName": "Left_folding_chair",
+  "evolveIntoName": "AppliancesAndFurniture_Left_folding_chair",
   "texture": "Left_Folded_chair.png"
 }

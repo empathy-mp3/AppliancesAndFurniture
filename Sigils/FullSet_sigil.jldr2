@@ -1,7 +1,8 @@
 {
     "name": "Full Set",
-    "GUID": "FullSet",
+    "GUID": "empathymp3.inscryption.AppliancesAndFurniture",
     "description": "When a card bearing this sigil is played, a Chair is created on each empty adjacent space. Chairs have 1 Power and 1 Health, and will strike the space opposing a card bearing this sigil.",
+    "metaCategories": [ "Part1Rulebook", "Part1Modular", "Part3Rulebook", "Part3Modular", "GrimoraRulebook", "MagnificusRulebook" ],
     "texture": "Full_Set.png",
     "pixelTexture": "Full_Set_pixel.png",
     "powerLevel": 6,
@@ -19,8 +20,8 @@
                         "index": "([BaseCard.Slot.Index] - 1)"
                     },
                     "card": {
-                        "name": "Left_chair",
-                        "retainMods": "true"
+                        "name": "AppliancesAndFurniture_Left_chair",
+                        "retainMods": "false"
                     },
                     "replace": "false"
                 },
@@ -29,8 +30,8 @@
                         "index": "([BaseCard.Slot.Index] + 1)"
                     },
                     "card": {
-                        "name": "Right_chair",
-                        "retainMods": "true"
+                        "name": "AppliancesAndFurniture_Right_chair",
+                        "retainMods": "false"
                     },
                     "replace": "false"
                 }

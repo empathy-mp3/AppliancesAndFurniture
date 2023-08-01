@@ -13,7 +13,7 @@
   },
   "tribes": [ "Canine" ],
   "abilities": [ "Transformer" ],
-  "evolveIntoName": "Lit_microwave",
+  "evolveIntoName": "AppliancesAndFurniture_Lit_microwave",
   "evolveTurns": 1,
   "emissionTexture": "Microwave_emission.png",
   "texture": "Microwave.png"

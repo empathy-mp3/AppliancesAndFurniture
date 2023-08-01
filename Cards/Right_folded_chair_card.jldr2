@@ -14,6 +14,6 @@
   "abilities": [ "DeathShield", "Transformer" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "evolveIntoName": "Right_folding_chair",
+  "evolveIntoName": "AppliancesAndFurniture_Right_folding_chair",
   "texture": "Right_folded_chair.png"
 }

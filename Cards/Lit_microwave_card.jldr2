@@ -13,7 +13,7 @@
   "tribes": [ "Canine" ],
   "abilities": [ "DoubleStrike", "Transformer" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
-  "evolveIntoName": "Microwave",
+  "evolveIntoName": "AppliancesAndFurniture_Microwave",
   "evolveTurns": 1,
   "emissionTexture": "Lit_microwave_emission.png",
   "texture": "Lit_microwave.png"

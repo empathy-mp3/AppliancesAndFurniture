@@ -14,8 +14,8 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole", "TailOnHit", "IceCube" ],
   "appearanceBehaviour": [ "DefaultEmission", "RareCardBackground" ],
-  "iceCubeName": "Refrigerator",
-  "tailName": "Mini_fridge",
+  "iceCubeName": "AppliancesAndFurniture_Refrigerator",
+  "tailName": "AppliancesAndFurniture_Mini_fridge",
   "emissionTexture": "Smart_fridge_emission.png",
   "texture": "Smart_fridge.png"
 }
