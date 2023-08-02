@@ -1,0 +1,18 @@
+{
+    "name": "blahaj",
+    "modPrefix": "IKEA",
+    "displayedName": "Blahaj",
+    "description": "I've never seen something so based...",
+    "metaCategories": [ "GBCPack", "GBCPlayable", "zorro.inscryption.infiniscryption.sidedecks.SideDeck" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 1,
+    "extensionProperties": {
+      "BellsCost": "1",
+      "SideDeckValue": "5"
+    },
+    "emissionTexture": "blahaj_emission.png",
+    "texture": "blahaj.png",
+    "pixelTexture": "px_blahaj.png"
+  }

@@ -4,6 +4,11 @@
             "name": "deck1",
             "iconTexture": "deck1.png",
             "cards": [ "IKEA_throne_of_gods", "IKEA_throne_of_gods", "IKEA_throne_of_gods" ]
+        },
+        {
+            "name": "deck2",
+            "iconTexture": "deck1.png",
+            "cards": [ "IKEA_blahaj", "IKEA_blahaj", "IKEA_blahaj" ]
         }
     ]
 }

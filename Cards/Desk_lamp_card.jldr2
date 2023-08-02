@@ -1,7 +1,7 @@
 {
   "name": "Desk_lamp",
   "modPrefix": "IKEA",
-  "displayedName": "Desk lamp",
+  "displayedName": "Desk Lamp",
   "description": "It may die quickly, but it takes others down with it...",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

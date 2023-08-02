@@ -1,7 +1,7 @@
 {
   "name": "Right_chair",
   "modPrefix": "IKEA",
-  "displayedName": "Right chair",
+  "displayedName": "Right Chair",
   "description": "One part of a set...",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

@@ -1,7 +1,7 @@
 {
   "name": "Left_chair",
   "modPrefix": "IKEA",
-  "displayedName": "Left chair",
+  "displayedName": "Left Chair",
   "description": "Another part of a set...",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
@@ -15,6 +15,6 @@
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
   "abilities": [ "nevernamed.inscryption.sigils_Crooked Strike Right" ],
-  "texture": "Left_chair.png",
+  "texture": "Left_Chair.png",
   "pixelTexture": "px_left_chair.png"
 }

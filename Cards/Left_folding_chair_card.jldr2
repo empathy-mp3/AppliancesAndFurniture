@@ -1,7 +1,7 @@
 {
   "name": "Left_folding_chair",
   "modPrefix": "IKEA",
-  "displayedName": "Left folding chair",
+  "displayedName": "Left Folding Chair",
   "description": "It's more sturdy than it looks...",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

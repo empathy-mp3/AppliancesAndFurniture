@@ -1,7 +1,7 @@
 {
   "name": "Mini_fridge",
   "modPrefix": "IKEA",
-  "displayedName": "Mini fridge",
+  "displayedName": "Mini Fridge",
   "description": "A tiny protective device, yet its power is not to be underestimated.",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

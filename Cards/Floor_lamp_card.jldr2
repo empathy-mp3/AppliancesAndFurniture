@@ -1,7 +1,7 @@
 {
   "name": "Floor_lamp",
   "modPrefix": "IKEA",
-  "displayedName": "Floor lamp",
+  "displayedName": "Floor Lamp",
   "description": "Its high reach is not to be underestimated...",
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

@@ -1,7 +1,7 @@
 {
   "name": "Zigzag_bookshelf",
   "modPrefix": "IKEA",
-  "displayedName": "Zigzag bookshelf",
+  "displayedName": "Zigzag Bookshelf",
   "description": "The ultimate defensive tool.",
   "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",

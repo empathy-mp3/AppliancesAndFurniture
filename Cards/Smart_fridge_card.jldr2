@@ -1,7 +1,7 @@
 {
   "name": "Smart_fridge",
   "modPrefix": "IKEA",
-  "displayedName": "Smart fridge",
+  "displayedName": "Smart Fridge",
   "description": "A truly powerful protective device. Its power cannot be overstated.",
   "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
