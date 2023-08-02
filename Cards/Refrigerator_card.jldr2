@@ -14,6 +14,7 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole", "Reach", "IceCube" ],
   "iceCubeName": "IKEA_Mini_fridge",
+  "evolveIntoName": "IKEA_Smart_fridge",
   "emissionTexture": "Refrigerator_emission.png",
   "texture": "Refrigerator.png",
   "pixelTexture": "px_refrigerator.png"

@@ -1,0 +1,21 @@
+{
+    "name": "2004_honda_civic",
+    "modPrefix": "IKEA",
+    "displayedName": "2004 Honda Civic",
+    "description": "It might be basic, but...",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 2,
+    "baseHealth": 3,
+    "extensionProperties": {
+      "BellsCost": "2"
+    },
+    "tribes": [ "Canine" ],
+    "abilities": [ "SkeletonStrafe" ],
+    "specialAbilities": [],
+    "appearanceBehaviour": [ "DefaultEmission", "RareCardBackground" ],
+    "emissionTexture": "lg_42in_hdtv_emission.png",
+    "texture": "lg_42in_hdtv.png",
+    "pixelTexture": "px_lg_42in_hdtv.png"
+}

@@ -13,6 +13,7 @@
   },
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole" ],
+  "evolveIntoName": "IKEA_Refrigerator",
   "emissionTexture": "Mini_fridge_emission.png",
   "texture": "Mini_fridge.png",
   "pixelTexture": "px_mini_fridge.png"

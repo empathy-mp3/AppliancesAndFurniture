@@ -1,0 +1,20 @@
+{
+    "name": "lg_42in_hdtv",
+    "modPrefix": "IKEA",
+    "displayedName": "LG 42\" HDTV",
+    "description": "For only $489...",
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
+    "cardComplexity": "Simple",
+    "temple": "Nature",
+    "baseAttack": 1,
+    "baseHealth": 3,
+    "extensionProperties": {
+      "BellsCost": "4"
+    },
+    "tribes": [ "Canine" ],
+    "abilities": [ "DoubleStrike", "SwapStats" ],
+    "appearanceBehaviour": [ "DefaultEmission", "RareCardBackground" ],
+    "emissionTexture": "lg_42in_hdtv_emission.png",
+    "texture": "lg_42in_hdtv.png",
+    "pixelTexture": "px_lg_42in_hdtv.png"
+  }

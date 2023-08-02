@@ -15,6 +15,7 @@
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
   "abilities": [ "nevernamed.inscryption.sigils_Crooked Strike Right" ],
+  "evolveIntoName": "IKEA_throne_of_gods",
   "texture": "Left_Chair.png",
   "pixelTexture": "px_left_chair.png"
 }
