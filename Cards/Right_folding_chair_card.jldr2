@@ -1,9 +1,9 @@
 {
   "name": "Right_folding_chair",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Right folding chair",
   "description": "It's more sturdy than it looks...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,7 +15,8 @@
   "abilities": [ "Transformer", "nevernamed.inscryption.sigils_Crooked Strike Left" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "evolveIntoName": "AppliancesAndFurniture_Right_Folded_chair",
+  "evolveIntoName": "IKEA_Right_Folded_chair",
   "evolveTurns": 1,
-  "texture": "Right_folding_chair.png"
+  "texture": "Right_folding_chair.png",
+  "pixelTexture": "px_right_folding_chair.png"
 }

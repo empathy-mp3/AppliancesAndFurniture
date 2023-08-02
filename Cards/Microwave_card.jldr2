@@ -1,9 +1,9 @@
 {
   "name": "Microwave",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Microwave",
   "description": "A fiery device... it holds great power.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -13,8 +13,9 @@
   },
   "tribes": [ "Canine" ],
   "abilities": [ "Transformer" ],
-  "evolveIntoName": "AppliancesAndFurniture_Lit_microwave",
+  "evolveIntoName": "IKEA_Lit_microwave",
   "evolveTurns": 1,
   "emissionTexture": "Microwave_emission.png",
-  "texture": "Microwave.png"
+  "texture": "Microwave.png",
+  "pixelTexture": "px_microwave.png"
 }

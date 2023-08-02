@@ -1,7 +1,7 @@
 {
-	"Title": "Appliances and Furniture",
+	"Title": "IKEA",
 	"Description": "Has many Appliances that cost Bells, and bloodless Furniture that cost Health.",
-	"ModPrefix": "AppliancesAndFurniture",
-	"PackArt": "appliances_pack.png",
+	"ModPrefix": "IKEA",
+	"PackArt": "ikea_pack.png",
     "ValidFor": ["LeshyPack"]
 }

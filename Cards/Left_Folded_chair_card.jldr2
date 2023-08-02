@@ -1,6 +1,6 @@
 {
   "name": "Left_Folded_chair",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Left Folded chair",
   "description": "You shouldn't be seeing this message...",
   "cardComplexity": "Simple",
@@ -14,6 +14,7 @@
   "abilities": [ "Transformer", "DeathShield" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "evolveIntoName": "AppliancesAndFurniture_Left_folding_chair",
-  "texture": "Left_Folded_chair.png"
+  "evolveIntoName": "IKEA_Left_folding_chair",
+  "texture": "Left_Folded_chair.png",
+  "pixelTexture": "px_left_folded_chair.png"
 }

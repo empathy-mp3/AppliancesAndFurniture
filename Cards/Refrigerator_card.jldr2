@@ -1,9 +1,9 @@
 {
   "name": "Refrigerator",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Refrigerator",
   "description": "A protective device. What could be inside?",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 0,
@@ -13,7 +13,8 @@
   },
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole", "Reach", "IceCube" ],
-  "iceCubeName": "AppliancesAndFurniture_Mini_fridge",
+  "iceCubeName": "IKEA_Mini_fridge",
   "emissionTexture": "Refrigerator_emission.png",
-  "texture": "Refrigerator.png"
+  "texture": "Refrigerator.png",
+  "pixelTexture": "px_refrigerator.png"
 }

@@ -1,9 +1,9 @@
 {
   "name": "Smart_fridge",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Smart fridge",
   "description": "A truly powerful protective device. Its power cannot be overstated.",
-  "metaCategories": [ "Rare" ],
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 0,
@@ -14,8 +14,9 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole", "TailOnHit", "IceCube" ],
   "appearanceBehaviour": [ "DefaultEmission", "RareCardBackground" ],
-  "iceCubeName": "AppliancesAndFurniture_Refrigerator",
-  "tailName": "AppliancesAndFurniture_Mini_fridge",
+  "iceCubeName": "IKEA_Refrigerator",
+  "tailName": "IKEA_Mini_fridge",
   "emissionTexture": "Smart_fridge_emission.png",
-  "texture": "Smart_fridge.png"
+  "texture": "Smart_fridge.png",
+  "pixelTexture": "px_smart_fridge.png"
 }

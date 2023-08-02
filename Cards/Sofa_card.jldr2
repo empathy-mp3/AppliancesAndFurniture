@@ -1,9 +1,9 @@
 {
   "name": "Sofa",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Sofa",
   "description": "Not as comfortable as it seems...",
-  "metaCategories": [ "Rare" ],
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "BuffEnemy", "Sniper" ],
   "appearanceBehaviour": [ "GoldEmission" ],
   "traits": [ "Terrain" ],
-  "texture": "Sofa.png"
+  "texture": "Sofa.png",
+  "pixelTexture": "px_sofa.png"
 }

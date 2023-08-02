@@ -1,9 +1,9 @@
 {
   "name": "Washing_Machine",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Washing Machine",
   "description": "From the black void comes fresh clothing...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 0,
@@ -14,5 +14,6 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "BuffNeighbours", "SteelTrap" ],
   "emissionTexture": "Washing_Machine_emission.png",
-  "texture": "Washing_Machine.png"
+  "texture": "Washing_Machine.png",
+  "pixelTexture": "px_washing_machine.png"
 }

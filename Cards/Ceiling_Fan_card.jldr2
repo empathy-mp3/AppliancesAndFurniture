@@ -1,9 +1,9 @@
 {
   "name": "Ceiling_Fan",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Ceiling Fan",
   "description": "Its height surpasses all...",
-  "metaCategories": [ "Rare" ],
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -15,5 +15,6 @@
   "abilities": [ "Flying", "TriStrike" ],
   "appearanceBehaviour": [ "RareCardBackground", "DefaultEmission" ],
   "emissionTexture": "Ceiling_Fan_emission.png",
-  "texture": "Ceiling_Fan.png"
+  "texture": "Ceiling_Fan.png",
+  "pixelTexture": "px_cieling_fan.png"
 }

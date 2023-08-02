@@ -1,9 +1,9 @@
 {
   "name": "Floor_lamp",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Floor lamp",
   "description": "Its high reach is not to be underestimated...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -15,5 +15,6 @@
   "abilities": [ "Flying", "DeathShield" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Floor_lamp_emission.png",
-  "texture": "Floor_lamp.png"
+  "texture": "Floor_lamp.png",
+  "pixelTexture": "px_floor_lamp.png"
 }

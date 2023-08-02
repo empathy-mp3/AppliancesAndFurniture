@@ -1,9 +1,9 @@
 {
   "name": "Nightstand",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Nightstand",
   "description": "Its purpose is to support others.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "LatchDeathShield" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "texture": "Nightstand.png"
+  "texture": "Nightstand.png",
+  "pixelTexture": "px_nightstand.png"
 }

@@ -1,9 +1,9 @@
 {
   "name": "Minivan",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Minivan",
   "description": "A powerful, yet brittle vehicle.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "Strafe" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Minivan_emission.png",
-  "texture": "Minivan.png"
+  "texture": "Minivan.png",
+  "pixelTexture": "px_minivan.png"
 }

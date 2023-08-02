@@ -1,9 +1,9 @@
 {
   "name": "Desk_lamp",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Desk lamp",
   "description": "It may die quickly, but it takes others down with it...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "Flying", "LatchExplodeOnDeath" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Desk_lamp_emission.png",
-  "texture": "Desk_lamp.png"
+  "texture": "Desk_lamp.png",
+  "pixelTexture": "px_desk_lamp.png"
 }

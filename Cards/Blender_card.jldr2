@@ -1,9 +1,9 @@
 {
   "name": "Blender",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Blender",
   "description": "It stirs up much trouble...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -14,5 +14,6 @@
   "tribes": [ "Insect" ],
   "abilities": [ "AllStrike" ],
   "emissionTexture": "Blender_emission.png",
-  "texture": "Blender.png"
+  "texture": "Blender.png",
+  "pixelTexture": "px_blender.png"
 }

@@ -1,9 +1,9 @@
 {
   "name": "Semi_Truck",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Semi Truck",
   "description": "A truly gargantuan vehicle...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 4,
@@ -15,5 +15,6 @@
   "abilities": [ "StrafeSwap" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Semi_Truck_emission.png",
-  "texture": "Semi_Truck.png"
+  "texture": "Semi_Truck.png",
+  "pixelTexture": "px_semi_truck.png"
 }

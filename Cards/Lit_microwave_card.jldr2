@@ -1,6 +1,6 @@
 {
   "name": "Lit_microwave",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Lit microwave",
   "description": "You shouldn't be seeing this message.",
   "cardComplexity": "Simple",
@@ -13,8 +13,9 @@
   "tribes": [ "Canine" ],
   "abilities": [ "DoubleStrike", "Transformer" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
-  "evolveIntoName": "AppliancesAndFurniture_Microwave",
+  "evolveIntoName": "IKEA_Microwave",
   "evolveTurns": 1,
   "emissionTexture": "Lit_microwave_emission.png",
-  "texture": "Lit_microwave.png"
+  "texture": "Lit_microwave.png",
+  "pixelTexture": "px_lit_microwave.png"
 }

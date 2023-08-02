@@ -1,9 +1,9 @@
 {
   "name": "Kettle",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Kettle",
   "description": "Again and again, it fufills its purpose...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -14,5 +14,6 @@
   "tribes": [ "Insect" ],
   "abilities": [ "DrawCopyOnDeath" ],
   "emissionTexture": "Kettle_emission.png",
-  "texture": "Kettle.png"
+  "texture": "Kettle.png",
+  "pixelTexture": "px_kettle.png"
 }

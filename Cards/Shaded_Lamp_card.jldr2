@@ -1,9 +1,9 @@
 {
   "name": "Shaded_Lamp",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Shaded Lamp",
   "description": "A cheap, yet feeble lamp.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "Flying" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Shaded_Lamp_emission.png",
-  "texture": "Shaded_Lamp.png"
+  "texture": "Shaded_Lamp.png",
+  "pixelTexture": "px_shaded_lamp.png"
 }

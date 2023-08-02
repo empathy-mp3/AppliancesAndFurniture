@@ -1,9 +1,9 @@
 {
   "name": "Zigzag_bookshelf",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Zigzag bookshelf",
   "description": "The ultimate defensive tool.",
-  "metaCategories": [ "Rare" ],
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -15,5 +15,6 @@
   "abilities": [ "Sentry" ],
   "appearanceBehaviour": [ "GoldEmission" ],
   "traits": [ "Terrain" ],
-  "texture": "Zigzag_bookshelf.png"
+  "texture": "Zigzag_bookshelf.png",
+  "pixelTexture": "px_zigzag_bookshelf.png"
 }

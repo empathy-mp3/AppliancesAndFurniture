@@ -1,6 +1,6 @@
 {
     "name": "Full Set",
-    "GUID": "empathymp3.inscryption.AppliancesAndFurniture",
+    "GUID": "empathymp3.inscryption.IKEA",
     "description": "When a card bearing this sigil is played, a Chair is created on each empty adjacent space. Chairs have 1 Power and 1 Health, and will strike the space opposing a card bearing this sigil.",
     "metaCategories": [ "Part1Rulebook", "Part1Modular" ],
     "texture": "Full_Set.png",
@@ -20,7 +20,7 @@
                         "index": "([BaseCard.Slot.Index] - 1)"
                     },
                     "card": {
-                        "name": "AppliancesAndFurniture_Left_chair",
+                        "name": "IKEA_Left_chair",
                         "retainMods": "false"
                     },
                     "replace": "false"
@@ -30,7 +30,7 @@
                         "index": "([BaseCard.Slot.Index] + 1)"
                     },
                     "card": {
-                        "name": "AppliancesAndFurniture_Right_chair",
+                        "name": "IKEA_Right_chair",
                         "retainMods": "false"
                     },
                     "replace": "false"

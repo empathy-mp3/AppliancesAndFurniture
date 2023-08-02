@@ -1,9 +1,9 @@
 {
   "name": "Right_chair",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Right chair",
   "description": "One part of a set...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -15,5 +15,6 @@
   "abilities": [ "nevernamed.inscryption.sigils_Crooked Strike Left" ],
   "traits": [ "Terrain" ],
   "appearanceBehaviour": [ "TerrainBackground" ],
-  "texture": "Right_chair.png"
+  "texture": "Right_chair.png",
+  "pixelTexture": "px_right_chair.png"
 }

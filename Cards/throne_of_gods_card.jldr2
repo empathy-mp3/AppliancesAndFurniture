@@ -1,9 +1,9 @@
 {
     "name": "throne_of_gods",
-    "modPrefix": "AppliancesAndFurniture",
+    "modPrefix": "IKEA",
     "displayedName": "Throne of Gods",
     "description": "An enormous goliath. ",
-    "metaCategories": [ "Rare" ],
+    "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 2,
@@ -15,5 +15,6 @@
     "abilities": [ "PreventAttack" ],
     "appearanceBehaviour": [ "GoldEmission" ],
     "traits": [ "Terrain" ],
-    "texture": "throne_of_gods.png"
+    "texture": "throne_of_gods.png",
+    "pixelTexture": "px_throne_of_gods.png"
   }

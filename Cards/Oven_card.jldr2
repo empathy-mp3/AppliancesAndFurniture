@@ -1,9 +1,9 @@
 {
   "name": "Oven",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Oven",
   "description": "You would fear the fires of hell...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -15,5 +15,6 @@
   "abilities": [ "Sniper" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Oven_emission.png",
-  "texture": "Oven.png"
+  "texture": "Oven.png",
+  "pixelTexture": "px_oven.png"
 }

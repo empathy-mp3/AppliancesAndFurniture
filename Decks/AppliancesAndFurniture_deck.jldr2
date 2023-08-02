@@ -3,7 +3,7 @@
         {
             "name": "deck1",
             "iconTexture": "deck1.png",
-            "cards": [ "AppliancesAndFurniture_throne_of_gods", "AppliancesAndFurniture_throne_of_gods", "AppliancesAndFurniture_throne_of_gods" ]
+            "cards": [ "IKEA_throne_of_gods", "IKEA_throne_of_gods", "IKEA_throne_of_gods" ]
         }
     ]
 }

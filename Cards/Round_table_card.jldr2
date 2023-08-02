@@ -1,9 +1,9 @@
 {
   "name": "Round_table",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Round table",
   "description": "The complete set. a powerful offensive trio.",
-  "metaCategories": [ "Rare" ],
+  "metaCategories": [ "Rare", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 1,
@@ -12,7 +12,8 @@
     "LifeCost": "4"
   },
   "tribes": [ "Canine" ],
-  "abilities": [ "empathymp3.inscryption.AppliancesAndFurniture.Full Set" ],
+  "abilities": [ "empathymp3.inscryption.IKEA.Full Set" ],
   "appearanceBehaviour": [ "GoldEmission" ],
-  "texture": "Round_table.png"
+  "texture": "Round_table.png",
+  "pixelTexture": "px_round_table.png"
 }

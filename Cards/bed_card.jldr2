@@ -1,9 +1,9 @@
 {
     "name": "bed",
-    "modPrefix": "AppliancesAndFurniture",
+    "modPrefix": "IKEA",
     "displayedName": "Bed",
     "description": "Sweet dreams...",
-    "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+    "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
     "cardComplexity": "Simple",
     "temple": "Nature",
     "baseAttack": 1,
@@ -15,5 +15,6 @@
     "abilities": [ "ExplodeOnDeath" ],
     "traits": [ "Terrain" ],
     "appearanceBehaviour": [ "TerrainBackground" ],
-    "texture": "bed.png"
+    "texture": "bed.png",
+    "pixelTexture": "px_bed.png"
   }

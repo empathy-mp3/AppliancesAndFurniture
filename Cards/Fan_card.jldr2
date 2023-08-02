@@ -1,9 +1,9 @@
 {
   "name": "Fan",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Fan",
   "description": "Fear its spinning blades...",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 2,
@@ -13,5 +13,6 @@
   },
   "tribes": [ "Insect" ],
   "abilities": [ "SplitStrike" ],
-  "texture": "Fan.png"
+  "texture": "Fan.png",
+  "pixelTexture": "px_fan.png"
 }

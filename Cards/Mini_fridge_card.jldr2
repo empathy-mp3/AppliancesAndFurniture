@@ -1,9 +1,9 @@
 {
   "name": "Mini_fridge",
-  "modPrefix": "AppliancesAndFurniture",
+  "modPrefix": "IKEA",
   "displayedName": "Mini fridge",
   "description": "A tiny protective device, yet its power is not to be underestimated.",
-  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
   "baseAttack": 0,
@@ -14,5 +14,6 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole" ],
   "emissionTexture": "Mini_fridge_emission.png",
-  "texture": "Mini_fridge.png"
+  "texture": "Mini_fridge.png",
+  "pixelTexture": "px_mini_fridge.png"
 }
