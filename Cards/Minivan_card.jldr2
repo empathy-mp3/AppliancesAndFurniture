@@ -6,14 +6,15 @@
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
-  "baseAttack": 1,
-  "baseHealth": 2,
+  "baseAttack": 2,
+  "baseHealth": 3,
   "extensionProperties": {
-    "BellsCost": "1"
+    "BellsCost": "2"
   },
   "tribes": [ "Hooved" ],
   "abilities": [ "Strafe" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
+  "evolveIntoName": "IKEA_SUV",
   "emissionTexture": "Minivan_emission.png",
   "texture": "Minivan.png",
   "pixelTexture": "px_minivan.png"

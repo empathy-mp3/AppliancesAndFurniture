@@ -14,6 +14,7 @@
   "tribes": [ "Reptile" ],
   "abilities": [ "LatchDeathShield" ],
   "traits": [ "Terrain" ],
+  "evolveIntoName": "IKEA_Zigzag_bookshelf",
   "appearanceBehaviour": [ "TerrainBackground" ],
   "texture": "Nightstand.png",
   "pixelTexture": "px_nightstand.png"

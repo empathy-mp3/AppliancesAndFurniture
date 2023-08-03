@@ -9,7 +9,7 @@
   "baseAttack": 1,
   "baseHealth": 1,
   "extensionProperties": {
-    "BellsCost": "4"
+    "BellsCost": "3"
   },
   "tribes": [ "Insect" ],
   "abilities": [ "AllStrike" ],

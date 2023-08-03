@@ -12,6 +12,7 @@
       "BellsCost": "1",
       "SideDeckValue": "5"
     },
+    "abilities": [ "Strafe" ],
     "emissionTexture": "blahaj_emission.png",
     "texture": "blahaj.png",
     "pixelTexture": "px_blahaj.png"
