@@ -3,12 +3,22 @@
         {
             "name": "deck1",
             "iconTexture": "deck1.png",
-            "cards": [ "IKEA_throne_of_gods", "IKEA_throne_of_gods", "IKEA_throne_of_gods" ]
+            "cards": [ "IKEA_throne_of_gods", "IKEA_Minivan", "IKEA_bed" ]
         },
         {
             "name": "deck2",
-            "iconTexture": "deck1.png",
-            "cards": [ "IKEA_blahaj", "IKEA_blahaj", "IKEA_blahaj" ]
+            "iconTexture": "deck2.png",
+            "cards": [ "IKEA_Refrigerator", "IKEA_SUV", "IKEA_Kettle" ]
+        },
+        {
+            "name": "deck3",
+            "iconTexture": "deck3.png",
+            "cards": [ "IKEA_Fan", "IKEA_Nightstand", "IKEA_2004_Honda_Civic" ]
+        },
+        {
+            "name": "deck4",
+            "iconTexture": "deck4.png",
+            "cards": [ "IKEA_Round_table", "IKEA_Left_folding_chair", "IKEA_Right_folding_chair" ]
         }
     ]
 }
