@@ -12,7 +12,7 @@
     "BellsCost": "1"
   },
   "tribes": [ "Bird" ],
-  "abilities": [ "Flying" ],
+  "abilities": [ "Flying", "Reach" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "evolveIntoName": "IKEA_Floor_lamp",
   "emissionTexture": "Shaded_Lamp_emission.png",

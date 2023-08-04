@@ -10,7 +10,7 @@
     "extensionProperties": {
       "BellsCost": "4"
     },
-    "tribes": [ "Canine" ],
+    "tribes": [ "Hooved" ],
     "abilities": [ "SkeletonStrafe" ],
     "specialAbilities": [],
     "appearanceBehaviour": [ "DefaultEmission", "RareCardBackground" ],

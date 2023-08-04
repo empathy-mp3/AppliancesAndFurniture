@@ -12,7 +12,7 @@
     "BellsCost": "4"
   },
   "tribes": [ "Hooved" ],
-  "abilities": [ "StrafeSwap" ],
+  "abilities": [ "StrafeSwap", "Reach" ],
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Semi_Truck_emission.png",
   "texture": "Semi_Truck.png",

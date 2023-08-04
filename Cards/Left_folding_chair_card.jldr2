@@ -9,7 +9,7 @@
   "baseAttack": 1,
   "baseHealth": 1,
   "extensionProperties": {
-    "LifeCost": "3"
+    "LifeCost": "2"
   },
   "tribes": [ "Insect" ],
   "abilities": [ "Transformer", "nevernamed.inscryption.sigils_Crooked Strike Right" ],

@@ -9,10 +9,10 @@
   "baseAttack": 1,
   "baseHealth": 1,
   "extensionProperties": {
-    "LifeCost": "1"
+    "LifeCost": "2"
   },
   "tribes": [ "Insect" ],
-  "abilities": [ "BuffEnemy", "Sniper" ],
+  "abilities": [ "Sniper" ],
   "appearanceBehaviour": [ "GoldEmission" ],
   "traits": [ "Terrain" ],
   "texture": "Sofa.png",

@@ -9,7 +9,7 @@
   "baseAttack": 0,
   "baseHealth": 1,
   "extensionProperties": {
-    "BellsCost": "2"
+    "BellsCost": "1"
   },
   "tribes": [ "Reptile" ],
   "abilities": [ "WhackAMole" ],

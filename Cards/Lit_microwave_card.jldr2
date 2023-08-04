@@ -8,7 +8,7 @@
   "baseAttack": 1,
   "baseHealth": 2,
   "extensionProperties": {
-    "BellsCost": "3"
+    "BellsCost": "2"
   },
   "tribes": [ "Canine" ],
   "abilities": [ "DoubleStrike", "Transformer" ],

@@ -9,10 +9,10 @@
   "baseAttack": 1,
   "baseHealth": 3,
   "extensionProperties": {
-    "LifeCost": "3"
+    "LifeCost": "2"
   },
   "tribes": [ "Reptile" ],
-  "abilities": [ "LatchDeathShield" ],
+  "abilities": [ "LatchDeathShield", "Reach" ],
   "traits": [ "Terrain" ],
   "evolveIntoName": "IKEA_Zigzag_bookshelf",
   "appearanceBehaviour": [ "TerrainBackground" ],

@@ -9,10 +9,10 @@
   "baseAttack": 1,
   "baseHealth": 3,
   "extensionProperties": {
-    "LifeCost": "4"
+    "LifeCost": "3"
   },
   "tribes": [ "Canine" ],
-  "abilities": [ "empathymp3.inscryption.IKEA.Full Set" ],
+  "abilities": [ "empathymp3.inscryption.IKEA.Full Set", "Reach" ],
   "appearanceBehaviour": [ "GoldEmission" ],
   "texture": "Round_table.png",
   "pixelTexture": "px_round_table.png"

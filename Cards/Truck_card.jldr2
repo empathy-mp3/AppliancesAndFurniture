@@ -6,13 +6,13 @@
   "metaCategories": [ "ChoiceNode", "TraderOffer", "GBCPack", "GBCPlayable" ],
   "cardComplexity": "Simple",
   "temple": "Nature",
-  "baseAttack": 4,
-  "baseHealth": 5,
+  "baseAttack": 3,
+  "baseHealth": 4,
   "extensionProperties": {
-    "BellsCost": "4"
+    "BellsCost": "3"
   },
   "tribes": [ "Hooved" ],
-  "abilities": [ "StrafePush" ],
+  "abilities": [ "StrafePush", "Reach" ],
   "evolveIntoName": "IKEA_Semi_truck",
   "appearanceBehaviour": [ "DefaultEmission" ],
   "emissionTexture": "Truck_emission.png",

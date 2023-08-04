@@ -12,7 +12,7 @@
     "LifeCost": "2"
   },
   "tribes": [ "Insect" ],
-  "abilities": [ "nevernamed.inscryption.sigils_Crooked Strike Left" ],
+  "abilities": [ "nevernamed.inscryption.sigils_Crooked Strike Left", "Reach" ],
   "traits": [ "Terrain" ],
   "evolveIntoName": "IKEA_throne_of_gods",
   "appearanceBehaviour": [ "TerrainBackground" ],

@@ -9,7 +9,7 @@
     "baseAttack": 2,
     "baseHealth": 1,
     "extensionProperties": {
-        "LifeCost": "4"
+        "LifeCost": "3"
       },
     "tribes": [ "Insect" ],
     "abilities": [ "PreventAttack" ],
