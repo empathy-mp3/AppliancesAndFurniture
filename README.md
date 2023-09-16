@@ -11,6 +11,7 @@ Use of the Blahaj side deck included with the mod is highly recommended for the 
 v1.0.1:
 - Made the README much more accessible.
 - Added mods as dependencies that the mod doesn't *technically* require to function, but it would be much more convenient for everyone involved if they were listed as dependencies.
+- removed folding chairs because they're broken and i dont wanna fix them (because my codebase is so confusing)
 
 v1.0.0:
 - Added the cards
