@@ -1,15 +1,17 @@
 {
     "name": "IKEA",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/empathy-mp3/inscryption-IKEA-mod",
-    "description": "Has a lot of Appliance cards that cost Bells, and a lot of bloodless Furniture cards that cost Health. It's recommended that you use this mod as a standalone card pack!",
+    "description": "Has a lot of Appliance cards that cost Bells, and a lot of bloodless Furniture cards that cost Health.",
     "dependencies": [
         "BepInEx-BepInExPack_Inscryption-5.4.1902",
         "BepInEx-MonoMod_Loader_Inscryption-1.0.0",
-        "API_dev-API-2.15.1",
+        "API_dev-API-2.16.1",
         "Void_Slime-Life_Cost_API-2.3.0",
         "MADH95Mods-JSONCardLoader-2.4.5",
         "TVFLabs-CustomCurrency-1.2.0",
-        "Nevernamed-Nevernameds_Sigilarium-1.14.1"
+        "Nevernamed-Nevernameds_Sigilarium-1.14.1",
+        "Infiniscryption-Pack_Management_API-1.1.4",
+        "Infiniscryption-Side_Deck_Selector-2.1.5"
     ]
 }

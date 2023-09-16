@@ -1,7 +1,16 @@
 # IKEA
 
-Has a lot of Appliance cards that cost Bells, and a lot of bloodless Furniture cards that cost Health. It's recommended that you use this mod as a standalone card pack!
+This mod adds roughly 30 cards to Act 1, Act 2, and Kaycee's Mod, based on Appliances and Furniture, costing Bells and Health respectively. Nothing here is *actually* from IKEA (other than the Blahaj side deck), but it's a much better name for the card pack.
 
-Use Side Deck Selector for a Blahaj side deck!
+This is the first mod I made, so I'm unsure how good the card balance is. I think this playstyle is interesting, though!
 
-Recommended for use with 
+Use of the Blahaj side deck included with the mod is highly recommended for the balance of the mod!
+
+# Patch Notes
+
+v1.0.1:
+- Made the README much more accessible.
+- Added mods as dependencies that the mod doesn't *technically* require to function, but it would be much more convenient for everyone involved if they were listed as dependencies.
+
+v1.0.0:
+- Added the cards
